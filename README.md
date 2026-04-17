@@ -83,9 +83,9 @@ restful-booker-qa-project/
 
 ### 📊 Summary Chart
 
-![Summary Chart](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/summary-chart.png)
+![Summary Chart](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/summary-chart.jpeg)
 
-![Bug Report](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/bug-report.png)
+![Bug Report](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/bug-report.jpeg)
 
 ---
 
