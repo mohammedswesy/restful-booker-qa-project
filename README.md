@@ -83,11 +83,9 @@ restful-booker-qa-project/
 
 ### 📊 Summary Chart
 
-![Summary Chart](./evidence/summary-chart.png)
+![Summary Chart](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/summary-chart.png)
 
-### 🐞 Bug Report
-
-![Bug Report](./evidence/bug-report.png)
+![Bug Report](https://raw.githubusercontent.com/mohammedswesy/restful-booker-qa-project/main/evidence/bug-report.png)
 
 ---
 
@@ -98,6 +96,13 @@ restful-booker-qa-project/
 * ✅ Validated responses and status codes
 * ⚠️ Identified inconsistencies between API behavior and documentation
 
+---
+## 💡 Key Insights
+
+- Some endpoints returned unexpected status codes compared to documentation  
+- API behavior was inconsistent in certain edge cases  
+- Importance of validating both response body and status codes  
+- Real-world APIs may not always match their documentation  
 ---
 
 ## 👨‍💻 Team Members
